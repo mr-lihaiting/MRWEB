@@ -1,2 +1,0 @@
-# MRWEB
-haiting.tech
